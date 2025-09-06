@@ -1,16 +1,1 @@
-# finalproject
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 📱 Quiz App A simple and interactive quiz application built with **Flutter**. The app allows users to answer questions, track their progress, and view results in real-time. --- ## 🚀 Features - 📝 Multiple choice questions - 📊 Score tracking - 🌐 Localization (English & Arabic) - 🎨 Clean and responsive UI - 🔔 Instant feedback on answers --- ## 📸 Screenshots <!-- ضيف صور لو عندك --> <p align="center"> <img src="screenshots/splash.png" width="250" /> <img src="screenshots/login.png" width="250" /><img src="screenshots/signup.png" width="250" /><img src="screenshots/home.png" width="250" /><img src="screenshots/quiz.png" width="250" /><img src="screenshots/quiz2.png" width="250" /><img src="screenshots/quiz_done.png" width="250" /> <img src="screenshots/user_details.png" width="250" /> <img src="screenshots/Screenshot 2025-09-06 215744.png" width="250" /> </p> --- ## 🛠️ Tech Stack - **Flutter** (Dart) - **Provider / Bloc** for state management - **Firebase** (Authentication, Firestore, Storage) --- ## 📂 Project Structure
