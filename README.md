@@ -1,11 +1,11 @@
-# 📱 Quiz App
+# 📱 Quiz App  
 
 A simple and interactive quiz application built with **Flutter**.  
-The app allows users to answer questions, upload their profile picture, track their progress, and view results in real-time.
+The app allows users to answer questions, upload their profile picture, track their progress, and view results in real-time.  
 
 ---
 
-## 🚀 Features
+## 🚀 Features  
 
 - 📝 Multiple choice questions  
 - 📊 Score tracking  
@@ -16,7 +16,7 @@ The app allows users to answer questions, upload their profile picture, track th
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots  
 
 <p align="center">
   <img src="screenshots/splash.png" width="220" />
@@ -38,13 +38,14 @@ The app allows users to answer questions, upload their profile picture, track th
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 - **Flutter** (Dart)  
 - **Provider / Bloc** for state management  
 - **Firebase** (Authentication, Firestore, Storage)  
+- **REST APIs** (for external data integration)  
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure  
 
